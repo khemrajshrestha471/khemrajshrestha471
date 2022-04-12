@@ -1,4 +1,4 @@
-                                                    ### Hey reader! Welcome back to the KRS's page 👋
+   ### Hey reader! Welcome back to the KRS's page 👋
 
 <hr>
 
