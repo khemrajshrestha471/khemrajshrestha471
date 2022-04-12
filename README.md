@@ -28,4 +28,6 @@ Currently Student in Computer Engineering field, I'm very organized, curious and
 
 --consistent programmer--
 
+<hr>
+
 ***(I feel very pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!)***
