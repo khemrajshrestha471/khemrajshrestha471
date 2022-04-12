@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development. 
-- 🌱 I’m currently learning **C++ and Python + Dart as well**.
+- 🌱 I’m currently learning **C++ and Python + Dart**.
 - 👯 I’m looking to collaborate on **Google and Microsoft**.
 - 🤔 I’m looking for help with Senior developer + Online platform.
 - 💬 Ask me about ***HTML, CSS and JAVASCRIPT***.
