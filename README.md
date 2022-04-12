@@ -33,5 +33,4 @@ Currently Student in Computer Engineering field, I'm very organized, curious and
 ***(I feel very pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!)***
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmekhemraj
- &theme=radical)
+https://github-readme-stats.vercel.app/api?username=itsmekhemraj
