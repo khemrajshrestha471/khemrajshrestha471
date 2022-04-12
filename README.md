@@ -9,13 +9,11 @@
 - 🤔 I’m looking for help with Senior developer + Online platform.
 - 💬 Ask me about ***HTML, CSS and JAVASCRIPT***.
 - 📫 Find me on: 
-- Facebook:- https://www.facebook.com/freedom.xtha
-- Instagram:- https://www.instagram.com/khemraj.shrestha_471/
-- Twitter:- https://twitter.com/Khemraj30625311
-- Linkedin:- https://www.linkedin.com/in/khemraj-shrestha-72171b237/
 - Gmail:- khemrajshrestha471@gmail.com
-- <a href="https://www.facebook.com/freedom.xtha" target="_blank"><img align="center" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a>
-              
+- <a href="https://www.facebook.com/freedom.xtha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-      icons@3.0.1/icons/facebook.svg" height="30" width="40"></a> 
+- <a href="https://www.instagram.com/khemraj.shrestha_471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-      icons@3.0.1/icons/instagram.svg" height="30" width="40"></a> 
+- <a href="https://twitter.com/Khemraj30625311" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-      icons@3.0.1/icons/twitter.svg" height="30" width="40"></a> 
+- <a href="https://www.linkedin.com/in/khemraj-shrestha-72171b237/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-      icons@3.0.1/icons/linkedin.svg" height="30" width="40"></a>             
 - 😄 Pronouns: **MR. KRS**
 - ⚡ Fun fact: _Though i'm an adult guy, I watch cartoon.. Haha this is pretty funny!!!_
 
