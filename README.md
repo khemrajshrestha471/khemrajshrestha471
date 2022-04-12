@@ -1,7 +1,6 @@
 ### Hey reader! Welcome back to the KRS's page 👋
 
 <hr>
-<hr>
 
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development. 
