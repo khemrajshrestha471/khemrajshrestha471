@@ -13,6 +13,9 @@
 -                       Instagram:- https://www.instagram.com/khemraj.shrestha_471/
 -                       Twitter:- https://twitter.com/Khemraj30625311
 -                       Linkedin:- https://www.linkedin.com/in/khemraj-shrestha-72171b237/
+-                       Gmail:- khemrajshrestha471@gmail.com
 -               
 - 😄 Pronouns: MR. KRS
 - ⚡ Fun fact: Though i'm an adult guy, I watch cartoon.. Haha this is pretty funny!!!
+
+***(I feel very pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!)
