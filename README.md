@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey reader! Welcome back 👋
 
-<!--
-**itsmekhemraj/itsmekhemraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on the project of WEB and APP development. 
+- 🌱 I’m currently learning C++ and Python + Dart as well.
+- 👯 I’m looking to collaborate on Youtube.
+- 🤔 I’m looking for help with Senior developer + Online platform.
+- 💬 Ask me about HTML, CSS and JAVASCRIPT.
+- 📫 How to reach me: 
+-                       Facebook:- https://www.facebook.com/freedom.xtha
+-                       Instagram:- https://www.instagram.com/khemraj.shrestha_471/
+-                       Twitter:- https://twitter.com/Khemraj30625311
+-                       Linkedin:- https://www.linkedin.com/in/khemraj-shrestha-72171b237/
+-               
+- 😄 Pronouns: MR. KRS
+- ⚡ Fun fact: Though i'm an adult guy, I watch cartoon.. Haha this is pretty funny!!!
