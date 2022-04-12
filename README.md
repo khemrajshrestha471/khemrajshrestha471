@@ -9,11 +9,12 @@
 - 🤔 I’m looking for help with Senior developer + Online platform.
 - 💬 Ask me about ***HTML, CSS and JAVASCRIPT***.
 - 📫 Find me on: 
--                       Facebook:- https://www.facebook.com/freedom.xtha
--                       Instagram:- https://www.instagram.com/khemraj.shrestha_471/
--                       Twitter:- https://twitter.com/Khemraj30625311
--                       Linkedin:- https://www.linkedin.com/in/khemraj-shrestha-72171b237/
--                      Gmail📧:- khemrajshrestha471@gmail.com
+- 
+- Facebook:- https://www.facebook.com/freedom.xtha
+- Instagram:- https://www.instagram.com/khemraj.shrestha_471/
+- Twitter:- https://twitter.com/Khemraj30625311
+- Linkedin:- https://www.linkedin.com/in/khemraj-shrestha-72171b237/
+- Gmail📧:- khemrajshrestha471@gmail.com
 -               
 - 😄 Pronouns: **MR. KRS**
 - ⚡ Fun fact: _Though i'm an adult guy, I watch cartoon.. Haha this is pretty funny!!!_
