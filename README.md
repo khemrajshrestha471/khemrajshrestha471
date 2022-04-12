@@ -2,8 +2,8 @@
   
   <H1 align="center">Hey reader! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Welcome back to the KRS's page </h3>
-<div class="check">
-<p align="left">
+<div class="row">
+  <div class="col">
   
 **Wanna know little bit about me..??**
 
@@ -12,9 +12,10 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
  Furthermore, I am very much familiar with **git and github** and most of the website which was developed by me was live in internet today through git platform. I am interested in software and app development as well and had learnt many other programming languages like _C, C++, Python, Java, Flutter, MySQL etc._ 
 
 --consistent programmer--
-  </p>
-  <p align="right"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></p>
-  <div>
+  </div>
+  <div class="column"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  </div>
+  </div>
 
 <hr>
 
