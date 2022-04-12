@@ -3,14 +3,14 @@
   <H1 align="center">Hey reader! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Welcome back to the KRS's page </h3>
   
-<p align="left">**Wanna know little bit about me..??**
+**Wanna know little bit about me..??**
 
 Currently studying undergraduate level in **Computer Engineering** field, I'm very organized, curious and creative person. I have much eager to learn something new and face different challenges. I am expert in _HTML, CSS and JAVASCRIPT_ and also a freelancer web developer. I'm a passionate full stack developer. I have started coding since 10th standard and forward. I had build more than 35 responsive website as well. Also, I have completed many courses related to CSS and JAVASCRIPT and had done many project related to it.
 
  Furthermore, I am very much familiar with **git and github** and most of the website which was developed by me was live in internet today through git platform. I am interested in software and app development as well and had learnt many other programming languages like _C, C++, Python, Java, Flutter, MySQL etc._ 
 
---consistent programmer--</p>
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+--consistent programmer--
+<img align="right" width="500" height="500" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   
 <hr>
 
