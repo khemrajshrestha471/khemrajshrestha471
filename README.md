@@ -13,7 +13,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 
 --consistent programmer--
   </div>
-  <div class="col=2"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  <div class="col=2"><img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   </div>
   </div>
 
