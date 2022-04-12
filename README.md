@@ -1,7 +1,5 @@
   <H1 align="center"> Hey reader! Welcome back to the KRS's page 👋 </h1>
 
-<hr>
-
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development. 
 - 🌱 I’m currently learning **C++ and Python + Dart**.
