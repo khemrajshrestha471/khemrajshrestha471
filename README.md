@@ -1,4 +1,4 @@
-  <H1 align="center"> Hey reader! Welcome back to the KRS's page 👋 </h1>
+  <H1 align="center"> <font color="waterman">Hey reader! Welcome back to the KRS's page 👋 </h1></font>
 
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development. 
