@@ -2,8 +2,8 @@
   
   <H1 align="center">Hey reader! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Welcome back to the KRS's page </h3>
-<div id="row">
-  <div class="col">
+<div class="row">
+  <div class="col=1">
   
 **Wanna know little bit about me..??**
 
@@ -13,7 +13,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 
 --consistent programmer--
   </div>
-  <div class="col"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  <div class="col=2"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   </div>
   </div>
 
