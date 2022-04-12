@@ -1,7 +1,7 @@
   <H1 align="center">Hey reader! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Welcome back to the KRS's page </h3>
     
-    <img src="banner.png">
+    <img src="https://lh3.googleusercontent.com/59Ym3JyrMMm1XZHnAFABQi_wELAmBSvf55EykEjlUYMKylR6zDBuaA3O6uN3kWiHTVAi=s170">
 
 
 **Wanna know little bit about me..??**
