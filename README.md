@@ -1,4 +1,5 @@
   <img src="https://i.ibb.co/HNvqMRD/banner.png" width="1000">
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   
   <H1 align="center">Hey reader! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Welcome back to the KRS's page </h3>
