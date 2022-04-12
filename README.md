@@ -18,6 +18,8 @@
 - 😄 Pronouns: **MR. KRS**
 - ⚡ Fun fact: _Though i'm an adult guy, I watch cartoon.. Haha this is pretty funny!!!_
 
+<hr>
+
 **Wanna know little bit about me..??**
 
 Currently Student in Computer Engineering field, I'm very organized, curious and creative person. I have much eager to learn something new and face different challenges. I am expert in HTML, CSS and JAVASCRIPT and also a freelancer web developer. I'm a full stack developer. I have started coding since 10th standard and forward. I had build more than 35 responsive website as well. Also, I have completed many courses related to CSS and JAVASCRIPT and had done many project related to it.
