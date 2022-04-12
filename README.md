@@ -1,4 +1,4 @@
-  ### Hey reader! Welcome back to the KRS's page 👋 
+  <H1 align="center"> Hey reader! Welcome back to the KRS's page 👋 </h1>
 
 <hr>
 
