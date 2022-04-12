@@ -1,4 +1,5 @@
-  <H1 align="center">Hey reader! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"> Welcome back to the KRS's page</h1>
+  <H1 align="center">Hey reader! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
+    <h3 align="center">Welcome back to the KRS's page </h3>
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development. 
 - 🌱 I’m currently learning **C++ and Python + Dart**.
