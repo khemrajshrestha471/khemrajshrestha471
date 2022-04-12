@@ -14,7 +14,7 @@
 - Twitter:- https://twitter.com/Khemraj30625311
 - Linkedin:- https://www.linkedin.com/in/khemraj-shrestha-72171b237/
 - Gmail:- khemrajshrestha471@gmail.com
-- <a href="https://www.facebook.com/freedom.xtha" class="fa fa-facebook"></a>
+- <a href="https://www.facebook.com/freedom.xtha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a>
               
 - 😄 Pronouns: **MR. KRS**
 - ⚡ Fun fact: _Though i'm an adult guy, I watch cartoon.. Haha this is pretty funny!!!_
