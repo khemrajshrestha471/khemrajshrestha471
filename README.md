@@ -18,4 +18,4 @@
 - 😄 Pronouns: MR. KRS
 - ⚡ Fun fact: Though i'm an adult guy, I watch cartoon.. Haha this is pretty funny!!!
 
-***(I feel very pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!)
+***(I feel very pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!)***
