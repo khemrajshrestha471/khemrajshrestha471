@@ -1,4 +1,5 @@
   <H1 align="center"> <font color="waterman">Hey reader! Welcome back to the KRS's page 👋 </h1></font>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development. 
