@@ -1,4 +1,4 @@
-  <a href="https://itsmekhemraj.github.io/Website/"><img src="https://i.ibb.co/HNvqMRD/banner.png" width="1000"></a>
+   <a href="https://itsmekhemraj.github.io/Website/"><img src="https://i.ibb.co/HNvqMRD/banner.png" width="1000"></a>
   
   <H1 align="center"> &nbsp; &nbsp; Hey explorer!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Good to see you again!!</h3>
@@ -9,11 +9,8 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 
  Furthermore, I am very much familiar with **git and github** and most of the website which was developed by me was live in internet today through git platform. I am interested in software and app development as well and had learnt many other programming languages like _C, C++, Python, Java, Flutter, MySQL etc._ 
 
---consistent programmer-- 
+--consistent programmer-- <br>
 <img align="center" width="400" height="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" padding-left="30px"> 
-
-  <br>
-
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development.
 - 🌱 I’m currently learning **C++ and Python + Dart**. 
