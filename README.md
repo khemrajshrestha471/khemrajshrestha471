@@ -20,7 +20,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 - 📫 Find me on: &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/freedom.xtha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.instagram.com/khemraj.shrestha_471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://twitter.com/Khemraj30625311" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/khemraj-shrestha-72171b237/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"></a>              
 - 😄 Pronouns: **MR. KRS** 
 - ⚡ Fun fact: _Though i'm an adult guy, I watch cartoon.. Haha that's pretty funny!!!_ 
-<br/>
+
 ***(I feel very pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!)***
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmekhemraj&theme=radical)
