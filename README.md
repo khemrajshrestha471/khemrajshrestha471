@@ -11,7 +11,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 
 --consistent programmer-- <br>
 <img align="center" width="400" height="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" padding-left="30px"> 
-<hr>
+
 - 🔭 I’m currently working on the project of **WEB** and **APP** development.
 - 🌱 I’m currently learning **C++ and Python + Dart**. 
 - 👯 I’m looking to collaborate on **Google and Microsoft**. 
