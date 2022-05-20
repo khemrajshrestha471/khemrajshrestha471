@@ -4,18 +4,15 @@
     <h3 align="center">Good to see you again!!</h3>
   
 **Wanna know little bit about me..??**
-<div>
-  <div class-"col-1">
+
 Currently studying undergraduate level in **Computer Engineering** field, I'm very organized, curious and creative person. I have much eager to learn something new and face different challenges. I am expert in _HTML, CSS and JAVASCRIPT_ and also a freelancer web developer. I'm a passionate full stack developer. I have started coding since 10th standard and forward. I had build more than 35 responsive website as well. Also, I have completed many courses related to CSS and JAVASCRIPT and had done many project related to it.
 
  Furthermore, I am very much familiar with **git and github** and most of the website which was developed by me was live in internet today through git platform. I am interested in software and app development as well and had learnt many other programming languages like _C, C++, Python, Java, Flutter, MySQL etc._ 
 
 --consistent programmer-- 
-  </div>
-  <div class-"col-2">
+
     <img align="center" width="400" height="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" padding-left="30px"> 
-  </div>
-  </div>
+
   <br>
 
 
