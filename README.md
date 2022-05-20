@@ -10,7 +10,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
  Furthermore, I am very much familiar with **git and github** and most of the website which was developed by me was live in internet today through git platform. I am interested in software and app development as well and had learnt many other programming languages like _C, C++, Python, Java, Flutter, MySQL etc._ 
 
 --consistent programmer--
-<img align="right" width="400" height="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
+<img align="right" width="400" height="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" padding-left="30px"> 
 <hr>
 - 🔭 I’m currently working on the project of **WEB** and **APP** development.
 - 🌱 I’m currently learning **C++ and Python + Dart**. 
