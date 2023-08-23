@@ -3,7 +3,7 @@
   <H1 align="center"> &nbsp; &nbsp; Hey explorer!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Good to see you again!!</h3>
   
-**Wanna know little bit about me..??**
+**Know me more...**
 
 Currently studying undergraduate level in **Computer Engineering** field, I'm very organized, curious and creative person. I have much eager to learn something new and face different challenges. I am expert in _HTML, CSS and JAVASCRIPT_ and also a freelancer web developer. I'm a passionate full stack developer. I have started coding since 10th standard and forward. I had build more than 35 responsive website as well. Also, I have completed many courses related to CSS and JAVASCRIPT and had done many project related to it.
 
@@ -12,14 +12,14 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 --consistent programmer-- <br>
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development.
-- 🌱 I’m currently learning **C++ and Python + Dart**. 
+- 🌱 I’m currently learning **MERN and Python + Django**. 
 - 👯 I’m looking to collaborate on **Google and Microsoft**. 
 - 🤔 I’m looking for help with Senior developer + Online platform. 
-- 💬 Ask me about ***HTML, CSS and JAVASCRIPT***. 
-- 📫 Find me on: &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/freedom.xtha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.instagram.com/khemraj.shrestha_471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://twitter.com/Khemraj30625311" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/khemraj-shrestha-72171b237/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"></a>              
+- 💬 Ask me about ***Web Development***. 
+- 📫 Find me on: &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/khemrajshrestha471" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.instagram.com/khemrajshrestha471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://twitter.com/khemrajstha471" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/khemrajshrestha471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"></a>              
 - 😄 Pronouns: **MR. KRS** 
 - ⚡ Fun fact: _Though i'm an adult guy, I watch cartoon.. Haha that's pretty funny!!!_ 
 
 ***(I feel very pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!)***
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmekhemraj&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khemrajshrestha471&theme=radical)
