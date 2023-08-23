@@ -1,4 +1,4 @@
-   <a href="https://itsmekhemraj.github.io/Website/"><img src="https://i.ibb.co/HNvqMRD/banner.png" width="1000"></a>
+   <a href="https://khemrajshrestha471.github.io/Website/"><img src="https://i.ibb.co/HNvqMRD/banner.png" width="1000"></a>
   
   <H1 align="center"> &nbsp; &nbsp; Hey explorer!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Good to see you again!!</h3>
@@ -18,7 +18,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 - 💬 Ask me about ***Web Development***. 
 - 📫 Find me on: &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/khemrajshrestha471" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.instagram.com/khemrajshrestha471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://twitter.com/khemrajstha471" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/khemrajshrestha471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"></a>              
 - 😄 Pronouns: **MR. KRS** 
-- ⚡ Fun fact: _Though i'm an adult guy, I watch cartoon.. Haha that's pretty funny!!!_ 
+- ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha that's pretty funny!!!_ 
 
 ***(I feel very pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!)***
 
