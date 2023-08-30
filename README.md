@@ -25,4 +25,4 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 
 ***I feel very pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!***
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khemrajshrestha471&theme=radical)
+
