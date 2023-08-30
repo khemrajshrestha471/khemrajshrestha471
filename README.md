@@ -1,4 +1,10 @@
-   <a href="khemrajshrestha.com.np"><img src="https://i.ibb.co/HNvqMRD/banner.png" width="1000"></a>
+   <a href="khemrajshrestha.com.np">![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/5772c115-8e47-4f42-b7b5-dfb13782a480)</a>
+
+
+
+
+
+   
   
   <h1 align="center"> &nbsp; &nbsp; Hey explorer!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Good to see you again!!</h3>
