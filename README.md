@@ -1,7 +1,4 @@
-   <a href="khemrajshrestha.com.np">![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/5772c115-8e47-4f42-b7b5-dfb13782a480)</a>
-
-
-
+   <a href="khemrajshrestha.com.np">![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/e5f814a5-f59b-492f-bde9-acdd7db08183)</a>
 
 
    
