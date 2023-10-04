@@ -1,7 +1,5 @@
-![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/e5f814a5-f59b-492f-bde9-acdd7db08183)
+![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/f96ae731-4eba-444a-958b-25077cd8f25f)
 
-
-   
   
   <h1 align="center"> &nbsp; &nbsp; Hey explorer!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Good to see you again!!</h3>
