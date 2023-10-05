@@ -1,7 +1,10 @@
 ![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/f96ae731-4eba-444a-958b-25077cd8f25f)
 
   Hey explorer!
-  ![github](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/0d2aadca-b2b0-4226-b6aa-64a72474fac3)
+
+![wave](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/134b48b8-702f-400c-9304-d2722815ba59)
+
+
   <h3 align="center">Good to see you again!!</h3>
 
    ![github](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/0d2aadca-b2b0-4226-b6aa-64a72474fac3)
