@@ -2,7 +2,7 @@
 
 <h1 align="center">👋, Hey explorer!</h1>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemrajshrestha471&label=Profile%20views&color=0e75b6&style=flat" alt="khemrajshrestha471" /> </p>
 
@@ -14,6 +14,8 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
  Furthermore, I am very much familiar with **git and github** and most of the website which was developed by me was live in internet today through git platform. I am interested in software and app development as well and had learnt many other programming languages like _C, C++, Python, Java, Flutter, MySQL etc._ 
 
 --consistent programmer-- <br>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development.
 - 🌱 I’m currently learning **MERN and Python + Django**. 
