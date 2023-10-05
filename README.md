@@ -20,18 +20,14 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 
 --consistent programmer-- <br>
 
-
-
 - 🔭 I’m currently working on the project of **WEB** and **APP** development.
 - 🌱 I’m currently learning **MERN and Python + Django**. 
 - 👯 I’m looking to collaborate on **Google and Microsoft**. 
 - 🤔 I’m looking for help with Senior developer + Online platform. 
-- 💬 Ask me about ***Web Development***. 
+- 💬 Ask me about **Web Development**. 
 - 📫 Find me on: &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/khemrajshrestha471" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.instagram.com/khemrajshrestha471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://twitter.com/khemrajstha471" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/khemrajshrestha471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"></a>              
 - 😄 Pronouns: **MR. KRS** 
 - ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha that's pretty funny!!!_ 
-
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="50">
 
 ***I feel pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!***
 
