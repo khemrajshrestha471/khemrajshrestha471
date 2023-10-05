@@ -5,9 +5,9 @@
     <td style="border: none;"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></td>
     <td style="border: none;"><p align="center">Hey explorer!</p></td>
   </tr>
-  <tr colspan="2">
+  <tr rowspan="2">
     <td>
-      <h3 align="center">Good to see you again!!</h3>
+      <p align="center">Good to see you again!!</p>
     </td>
   </tr>
 </table>
