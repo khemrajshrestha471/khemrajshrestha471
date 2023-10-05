@@ -1,10 +1,10 @@
 ![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/f96ae731-4eba-444a-958b-25077cd8f25f)
 
   
-  <h1 align="center"> &nbsp; &nbsp; Hey explorer!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
+  <h1 align="center"> &nbsp; &nbsp; Hey explorer!<img src=" https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></h1>
     <h3 align="center">Good to see you again!!</h3>
 
-    https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+   
   
 **Know me more...**
 
