@@ -1,6 +1,7 @@
 ![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/f96ae731-4eba-444a-958b-25077cd8f25f)
 
-  <h1>Hey explorer!</h1> ![wave](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/134b48b8-702f-400c-9304-d2722815ba59)
+  <h1 align="center">Hey explorer!</h1> 
+  ![wave](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/134b48b8-702f-400c-9304-d2722815ba59)
 
 
 
