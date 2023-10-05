@@ -9,7 +9,7 @@
 Currently studying undergraduate level in **Computer Engineering** field, I'm very organized, curious and creative person. I have much eager to learn something new and face different challenges. I am expert in _HTML, CSS and JAVASCRIPT_ and also a freelancer web developer. I'm a passionate full stack developer. I have started coding since 10th standard and forward. I had build more than 35 responsive website as well. Also, I have completed many courses related to CSS and JAVASCRIPT and had done many project related to it.
 
  Furthermore, I am very much familiar with **git and github** and most of the website which was developed by me was live in internet today through git platform. I am interested in software and app development as well and had learnt many other programming languages like _C, C++, Python, Java, Flutter, MySQL etc._ 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br>
 --consistent programmer-- <br>
 
 
