@@ -22,5 +22,5 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 - 📫 Find me on: &nbsp; &nbsp; <a href="https://fb.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://linkedin.com/in/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://www.leetcode.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khemrajshrestha471" height="20" width="30" /></a>              
 - 😄 Pronouns: **MR. KRS** 
 - ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha that's pretty funny!!!_ 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khemrajshrestha471&layout=compact)](https://github.com/khemrajshrestha471/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khemrajshrestha471&theme=radical)
