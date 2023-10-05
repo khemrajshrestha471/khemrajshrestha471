@@ -12,16 +12,6 @@
   </tr>
 </table>
 
-
-
-
-
-  
-
-   ![github](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/0d2aadca-b2b0-4226-b6aa-64a72474fac3)
-
-
-  
 **Know me more...**
 
 Currently studying undergraduate level in **Computer Engineering** field, I'm very organized, curious and creative person. I have much eager to learn something new and face different challenges. I am expert in _HTML, CSS and JAVASCRIPT_ and also a freelancer web developer. I'm a passionate full stack developer. I have started coding since 10th standard and forward. I had build more than 35 responsive website as well. Also, I have completed many courses related to CSS and JAVASCRIPT and had done many project related to it.
