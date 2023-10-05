@@ -1,16 +1,21 @@
 ![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/f96ae731-4eba-444a-958b-25077cd8f25f)
 
-<table border="5" align="center">
+<table border="3" align="center">
   <tr>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></td>
     <td style="border: none;"><p align="center">Hey explorer!</p></td>
+  </tr>
+  <tr colspan="2">
+    <td>
+      <h3 align="center">Good to see you again!!</h3>
+    </td>
   </tr>
 </table>
 
 
 
 
-  <h3 align="center">Good to see you again!!</h3>
+  
 
    ![github](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/0d2aadca-b2b0-4226-b6aa-64a72474fac3)
 
