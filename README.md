@@ -1,6 +1,6 @@
 ![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/f96ae731-4eba-444a-958b-25077cd8f25f)
 
-  <h1 align="center">Hey explorer!</h1>  ![github](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/0d2aadca-b2b0-4226-b6aa-64a72474fac3)
+  <p align="center">Hey explorer!</p>  ![github](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/0d2aadca-b2b0-4226-b6aa-64a72474fac3)
   <h3 align="center">Good to see you again!!</h3>
 
    ![github](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/0d2aadca-b2b0-4226-b6aa-64a72474fac3)
