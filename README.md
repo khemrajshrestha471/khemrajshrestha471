@@ -33,7 +33,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 - ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha that's pretty funny!!!_ 
 </div>
   <div style="flex: 1;">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="50">
    </div>
 </div>
 
