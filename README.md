@@ -1,6 +1,6 @@
 ![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/f96ae731-4eba-444a-958b-25077cd8f25f)
 
-<table border="0" align="center">
+<table border="5" align="center">
   <tr>
     <td style="border: none;"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></td>
     <td style="border: none;"><p align="center">Hey explorer!</p></td>
