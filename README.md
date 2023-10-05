@@ -2,8 +2,8 @@
 
 <table style="border-collapse: collapse;" align="center">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></td>
-    <td><p align="center">Hey explorer!</p></td>
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></td>
+    <td style="border: none;"><p align="center">Hey explorer!</p></td>
   </tr>
 </table>
 
