@@ -15,7 +15,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 - 👯 I’m looking to collaborate on **Google and Microsoft**. 
 - 🤔 I’m looking for help with Senior developer + Online platform. 
 - 💬 Ask me about **Web Development**. 
-- 📫 Find me on: &nbsp; &nbsp; <a href="https://www.facebook.com/khemrajshrestha471" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a> &nbsp; <a href="https://www.linkedin.com/in/khemrajshrestha471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"></a>              
+- 📫 Find me on: &nbsp; &nbsp; <a href="https://www.facebook.com/khemrajshrestha471" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="30"></a> &nbsp; <a href="https://www.linkedin.com/in/khemrajshrestha471/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30"></a>              
 - 😄 Pronouns: **MR. KRS** 
 - ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha that's pretty funny!!!_ 
 
