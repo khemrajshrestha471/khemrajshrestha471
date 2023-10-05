@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=khemrajshrestha471" alt="khemrajshrestha471" /> </p>
 
 <h1 align="center">👋, Hey explorer!</h1>
-
 **Know me more...**
 
 Currently studying undergraduate level in **Computer Engineering** field, I'm very organized, curious and creative person. I have much eager to learn something new and face different challenges. I am expert in _HTML, CSS and JAVASCRIPT_ and also a freelancer web developer. I'm a passionate full stack developer. I have started coding since 10th standard and forward. I had build more than 35 responsive website as well. Also, I have completed many courses related to CSS and JAVASCRIPT and had done many project related to it.
@@ -24,7 +23,5 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 - 📫 Find me on: &nbsp; &nbsp; <a href="https://fb.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://linkedin.com/in/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://www.leetcode.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khemrajshrestha471" height="20" width="30" /></a>              
 - 😄 Pronouns: **MR. KRS** 
 - ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha that's pretty funny!!!_ 
-
-***I feel pleased to share khowledge to the needy people. So, if you are stuck in any part in web development, feel free to reach out to me!!!***
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khemrajshrestha471&theme=radical)
