@@ -19,7 +19,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 - 💬 Ask me about **Web Development**. <br>
 - 📫 Find me on: &nbsp; &nbsp; <a href="https://fb.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://linkedin.com/in/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://www.leetcode.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khemrajshrestha471" height="20" width="30" /></a>    <br>          
 - 😄 Pronouns: **MR. KRS** <br>
-- ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon. Haha!_ <br>
+- ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha_ <br>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemrajshrestha471&layout=compact&theme=radical" />
