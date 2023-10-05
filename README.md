@@ -24,7 +24,7 @@ Currently studying undergraduate level in **Computer Engineering** field, I'm ve
 - ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha that's pretty funny!!!_ <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemrajshrestha471&layout=compact&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemrajshrestha471&theme=radical" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=khemrajshrestha471&theme=radical" />
 
