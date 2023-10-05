@@ -5,8 +5,8 @@
     <td style="border: none;"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></td>
     <td style="border: none;"><p align="center">Hey explorer!</p></td>
   </tr>
-  <tr rowspan="2">
-    <td>
+  <tr>
+    <td colspan="2">
       <p align="center">Good to see you again!!</p>
     </td>
   </tr>
