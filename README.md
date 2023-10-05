@@ -6,7 +6,7 @@
     <td style="border: none;"><p align="center">Hey explorer!</p></td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" style="padding: 20px;">
       <p align="center">Good to see you again!!</p>
     </td>
   </tr>
