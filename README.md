@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse;" align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="40"></td>
-    <td><h1 align="center">Hey explorer!</h1></td>
+    <td><p align="center">Hey explorer!</p></td>
   </tr>
 </table>
 
