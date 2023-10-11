@@ -1,4 +1,5 @@
 ![GitHub Banner](https://github.com/khemrajshrestha471/khemrajshrestha471/assets/86350457/f96ae731-4eba-444a-958b-25077cd8f25f)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khemrajshrestha471&label=Profile%20views&color=0e75b6&style=flat" alt="khemrajshrestha471" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=khemrajshrestha471" alt="khemrajshrestha471" /> </p>
 
