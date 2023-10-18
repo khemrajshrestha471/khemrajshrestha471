@@ -12,7 +12,7 @@ Besides web development, I'm equally enthusiastic about delving into _cloud comp
 
 Apart from my tech interests, I'm good at playing football, a community builder, love solo travelling and a little introvert (lost in 0's and 1's world...)
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development. <br>
