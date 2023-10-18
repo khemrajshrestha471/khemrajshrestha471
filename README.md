@@ -7,11 +7,13 @@
 
 **Know me more...**
 
-Currently studying undergraduate level in **Computer Engineering** field, I'm very organized, curious and creative person. I have much eager to learn something new and face different challenges. I am expert in _HTML, CSS and JAVASCRIPT_ and also a freelancer web developer. I'm a passionate full stack developer. I have started coding since 10th standard and forward. I had build more than 35 responsive website as well. Also, I have completed many courses related to CSS and JAVASCRIPT and had done many project related to it.
+Currently pursuing undergraduate **computer engineering** degree - I'm highly organized, curious, and creative person with a strong desire to learn and tackle new challenges. I'm skilled in _JavaScript, API, Database, Node.Js_ and have experience working in a team. I'm passionate about being a full-stack developer and have been in coding since high school. Successfully I've built more than 10 responsive websites and are live to the internet through GitHub platform.
+Besides web development, I'm equally enthusiastic about delving into _cloud computing, infrastructure, and security._
 
- Furthermore, I am very much familiar with **git and github** and most of the website which was developed by me was live in internet today through git platform. I am interested in software and app development as well and had learnt many other programming languages like _C, C++, Python, Java, Flutter, MySQL etc._ 
+Apart from my tech interests, I'm good at playing football, a community builder, love solo travelling and a little introvert (lost in 0's and 1's world...)
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br> <br>
---consistent programmer-- <br>
+
 
 - 🔭 I’m currently working on the project of **WEB** and **APP** development. <br>
 - 🌱 I’m currently learning **MERN and Python + Django**. <br>
