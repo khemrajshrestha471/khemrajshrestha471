@@ -1,8 +1,6 @@
 ![GitHub Banner](https://github.com/user-attachments/assets/fa1bff04-dd0b-478e-8697-e509955fad3c)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemrajshrestha471&label=Profile%20views&color=0e75b6&style=flat" alt="khemrajshrestha471" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=khemrajshrestha471" alt="khemrajshrestha471" /> </p>
-
 <h1 align="center">👋, Hey explorer!</h1>
 
 **Know me more...**
