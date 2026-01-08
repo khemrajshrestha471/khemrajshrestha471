@@ -23,8 +23,8 @@ Apart from my tech interests, I'm good at playing football, a community builder,
 - ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha_ <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemrajshrestha471&layout=compact&theme=radical" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemrajshrestha471&layout=compact&theme=radical" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=khemrajshrestha471&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=khemrajshrestha471&theme=radical" /> -->
 
 
