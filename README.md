@@ -5,7 +5,7 @@
 
 **Know me more...**
 
-Currently pursuing undergraduate **computer engineering** degree - I'm highly organized, curious, and creative person with a strong desire to learn and tackle new challenges. I'm skilled in _JavaScript, API, Database, Node.Js_ and have experience working in a team. I'm passionate about being a full-stack developer and have been in coding since high school. Successfully I've built more than 10 responsive websites and are live to the internet through GitHub platform. <br>
+Currently pursuing graduate **computer science** degree - I'm highly organized, curious, and creative person with a strong desire to learn and tackle new challenges. I'm skilled in _JavaScript, API, Database, Node.Js_ and have experience working in a team. I'm passionate about being a full-stack developer and have been in coding since high school. Successfully I've built more than 10 responsive websites and are live to the internet through GitHub platform. <br>
 Besides web development, I'm equally enthusiastic about delving into _cloud computing, infrastructure, and security._
 
 Apart from my tech interests, I'm good at playing football, a community builder, love solo travelling and a little introvert (lost in 0's and 1's world...)
