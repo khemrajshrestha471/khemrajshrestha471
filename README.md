@@ -1,6 +1,12 @@
 ![GitHub Banner](https://github.com/user-attachments/assets/fa1bff04-dd0b-478e-8697-e509955fad3c)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemrajshrestha471&label=Profile%20views&color=0e75b6&style=flat" alt="khemrajshrestha471" /> </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="khemrajshrestha471's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">👋, Hey explorer!</h1>
 
 **Know me more...**
