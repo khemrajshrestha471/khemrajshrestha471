@@ -7,7 +7,7 @@
   <img alt="khemrajshrestha471's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<h1 align="center">👋, Hey explorer!</h1>
+<!-- <h1 align="center">👋, Hey explorer!</h1> -->
 
 **Know me more...**
 
