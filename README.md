@@ -9,28 +9,41 @@
 
 <!-- <h1 align="center">👋, Hey explorer!</h1> -->
 
-**Know me more...**
+### 🤖 I build agents that retrieve, not guess.
 
-Currently pursuing graduate **computer science** degree - I'm highly organized, curious, and creative person with a strong desire to learn and tackle new challenges. I'm skilled in _JavaScript, API, Database, Node.Js_ and have experience working in a team. I'm passionate about being a full-stack developer and have been in coding since high school. Successfully I've built more than 10 responsive websites and are live to the internet through GitHub platform. <br>
-Besides web development, I'm equally enthusiastic about delving into _cloud computing, infrastructure, and security._
+M.Sc. **Computer Science** student at **KIT (Karlsruhe Institute of Technology) 🇩🇪** and Registered Computer Engineer from **Nepal 🇳🇵**. I work where software engineering meets AI: **Agentic AI, RAG, LLM agents and scalable backends**, from research prototypes to production systems.
 
-Apart from my tech interests, I'm good at playing football, a community builder, love solo travelling and a little introvert (lost in 0's and 1's world...)
+Off-screen, I play football ⚽, build communities, love solo travelling ✈️ and am a bit of an introvert (usually lost in a world of 0s and 1s 💻).
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🔬 **Now:** Student Research Assistant at KIT (MCSE, KASTEL), building RAG-based knowledge graph tooling with Python, PostgreSQL and Docker <br>
+- 🤖 **Previously:** Agentic AI workflows and secure RBAC APIs at **Fagoon AI**; scaled an AI proctoring platform to **500+ concurrent users** at **Fusemachines** <br>
+- 🧠 **Thesis:** Liquid Neural Networks for edge audio classification, **97% fewer parameters** than a CNN baseline (🏆 Best Final Year Project) <br>
+- 🌱 **Learning:** Reinforcement learning, vector databases and agent evaluation <br>
+- 👯 **Open to:** AI / Software Engineering internships in Germany and open-source collaboration on AI agents <br>
+- 💬 **Ask me about:** RAG, LLM agents, Celery + AWS SQS scaling, or model compression <br>
+- 🎤 **Community:** Gold Microsoft Learn Student Ambassador, reaching 1,500+ developers through workshops and hackathons <br>
+- 📫 **Find me:** &nbsp; &nbsp; <a href="https://linkedin.com/in/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://www.leetcode.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://fb.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; 🌐 <a href="https://www.khemrajshrestha.com.np/" target="_blank">khemrajshrestha.com.np</a> <br>
+- 😄 **Pronouns:** he/him <br>
+- ⚡ **Fun fact:** I build AI by day and still watch cartoons by night 📺 <br>
 
-- 🔭 I’m currently working on the project of **WEB** and **APP** development. <br>
-- 🌱 I’m currently learning **MERN and Python + Django**. <br>
-- 👯 I’m looking to collaborate on **Google and Microsoft**. <br>
-- 🤔 I’m looking for help with Senior developer + Online platform. <br>
-- 💬 Ask me about **Web Development**. <br>
-- 📫 Here I'm : &nbsp; &nbsp; <a href="https://fb.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://linkedin.com/in/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khemrajshrestha471" height="20" width="30" /></a> &nbsp; <a href="https://www.leetcode.com/khemrajshrestha471" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khemrajshrestha471" height="20" width="30" /></a>    <br>          
-- 😄 Pronouns: **MR. KRS** <br>
-- ⚡ Fun fact: _Though i'm an adult guy, I love watching cartoon.. Haha_ <br>
+### 🚀 Featured Projects
 
+| Project | What it does | Highlights |
+|---|---|---|
+| 🧠 **Liquid Neural Networks for Edge Audio** | Audio classification for resource-constrained edge devices | 89.15% accuracy on UrbanSound8K · 97% fewer parameters |
+| 📄 **DocuScan** | Document classification with OCR and an annotation tool | 94% accuracy · ResNet18 + Azure AI Vision · award-winning |
+| 👁️ **FuseNirikshak** | Real-time AI exam proctoring | Whisper speech detection · MediaPipe gaze tracking · RBAC portal |
+
+### 🧰 Tech Stack
+
+**AI/ML:** LLM Agents · RAG · Knowledge Graphs · Computer Vision · Knowledge Distillation · Whisper · Optuna · MLflow <br>
+**Backend:** Python · Node.js · Express · Django · REST APIs · OAuth 2.0 · Celery <br>
+**Data:** PostgreSQL · MySQL · MongoDB · Redis <br>
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS <br>
+**Cloud & DevOps:** Docker · AWS · Azure · CI/CD · Vercel
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemrajshrestha471&layout=compact&theme=radical" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=khemrajshrestha471&theme=radical" /> -->
-
-
