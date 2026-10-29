@@ -9,7 +9,7 @@
 
 <!-- <h1 align="center">👋, Hey explorer!</h1> -->
 
-### 🤖 I build agents that retrieve, not guess.
+### 🤖 𝐈 𝐛𝐮𝐢𝐥𝐝 𝐀𝐠𝐞𝐧𝐭𝐬 𝐭𝐡𝐚𝐭 𝐬𝐭𝐨𝐩 𝐠𝐮𝐞𝐬𝐬𝐢𝐧𝐠 𝐚𝐧𝐝 𝐬𝐭𝐚𝐫𝐭 𝐫𝐞𝐭𝐫𝐢𝐞𝐯𝐢𝐧𝐠...
 
 M.Sc. **Computer Science** student at **KIT (Karlsruhe Institute of Technology) 🇩🇪** and Registered Computer Engineer from **Nepal 🇳🇵**. I work where software engineering meets AI: **Agentic AI, RAG, LLM agents and scalable backends**, from research prototypes to production systems.
 
